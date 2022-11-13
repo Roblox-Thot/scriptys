@@ -1,0 +1,2 @@
+# scriptys
+coc
